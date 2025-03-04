@@ -97,10 +97,10 @@
   
   <!-- Social Media Links -->
   <div class="social-links">
-    <a href="https://facebook.com/yourprofile" target="_blank">Facebook</a>
-    <a href="https://tiktok.com/@yourprofile" target="_blank">TikTok</a>
-    <a href="https://instagram.com/yourprofile" target="_blank">Instagram</a>
-    <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>
+    <a href="https://www.facebook.com/aleasha.schultz/" target="_blank">Facebook</a>
+    <a href="https://www.tiktok.com/@yankee_inthe_south" target="_blank">TikTok</a>
+    <a href="https://www.instagram.com/aleashacogdill/" target="_blank">Instagram</a>
+    <a href="https://www.linkedin.com/in/aleasha-cogdill-99b4b5166/" target="_blank">LinkedIn</a>
   </div>
   
   <!-- Main Content -->
@@ -132,4 +132,3 @@
   </footer>
 </body>
 </html>
-
